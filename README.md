@@ -9,7 +9,7 @@ The Presentation pdf file summarizes the project and presents key findings.
 
 
 The analysis includes mainly 2 parts: 
-1. Exploratory analysis: https://public.tableau.com/app/profile/aiden.pham/viz/ChannelEngineAssignment/Performanceovertime?publish=yes
+1. Exploratory analysis: the result is in this public Tableau dashboard https://public.tableau.com/app/profile/aiden.pham/viz/ChannelEngineAssignment/Performanceovertime?publish=yes
 2. Demand forecastin (for 1 product category) using ARIMA
 
 
