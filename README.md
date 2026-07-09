@@ -1,5 +1,5 @@
 # Ecommerce-data-analysis
-This repository demonstrate the analysis of made-up sales data of 14 sellers.
+This repository shows the analysis of made-up ecommerce sales data from 14 sellers.
 
 It includes mainly 2 parts: 
 1. Exploratory analysis: https://public.tableau.com/app/profile/aiden.pham/viz/ChannelEngineAssignment/Performanceovertime?publish=yes
